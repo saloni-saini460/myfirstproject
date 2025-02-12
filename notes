@@ -1,0 +1,5 @@
+GIT REPOSITORY MANAGEMENT
+            /CLONE a repository with git clone <repository-url>
+            /EXAMPLE command:git clone https://github.com/username/repository.git.
+            /user git status to view changes, staged,and untracked files.
+            list configration with giit config --list.
